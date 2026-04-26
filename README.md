@@ -8,8 +8,8 @@ downloaded from NCBI using Python and Biopython.
 - Exports results to CSV
 
 ## Key findings
-- Average sequence length: ~2,685 nucleotides
-- Average GC content: ~48.3%
+- Average sequence length: ~2018 nucleotides
+- Average GC content: ~53.9%
 - Balanced nucleotide distribution across sequences
 
 ## Technologies
